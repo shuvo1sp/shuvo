@@ -1,4 +1,4 @@
-# shuvo
+# sentense clssifier and predictions 
 
 # Step 1: Install necessary libraries
 !pip install transformers datasets torch matplotlib scikit-learn seaborn
